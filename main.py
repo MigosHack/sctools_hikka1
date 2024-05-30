@@ -39,3 +39,4 @@ class SCToolsMod(loader.Module):
     async def sc2pngcmd(self, message):
 
         await message.edit("dudka technology")
+        print("syka dinaxy")
